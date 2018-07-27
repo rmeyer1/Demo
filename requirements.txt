@@ -1,0 +1,16 @@
+behave==1.2.6
+certifi==2018.4.16
+chardet==3.0.4
+coverage==4.5.1
+enum34==1.1.6
+idna==2.6
+linecache2==1.0.0
+parse==1.8.2
+parse-type==0.4.2
+PyYAML==3.12
+requests==2.18.4
+selenium==3.11.0
+six==1.11.0
+splinter==0.7.7
+traceback2==1.4.0
+urllib3==1.22

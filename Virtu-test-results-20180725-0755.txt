@@ -1,0 +1,5 @@
+07/25/2018 07:55:31 AM RUNNING: Email Validation
+07/25/2018 07:55:38 AM the browser is open to GMAIL
+07/25/2018 07:56:05 AM the user is logged in as Test User
+07/25/2018 07:56:05 AM PASSED: Email Validation
+

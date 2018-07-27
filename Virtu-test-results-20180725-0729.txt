@@ -1,0 +1,4 @@
+07/25/2018 07:29:46 AM RUNNING: Email Validation
+07/25/2018 07:30:03 AM STEP FAILED: the browser is open to GMAIL
+07/25/2018 07:30:03 AM FAILED: Email Validation
+

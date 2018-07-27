@@ -1,0 +1,959 @@
+1532528987272	geckodriver	INFO	geckodriver 0.19.1
+1532528987281	geckodriver	INFO	Listening on 127.0.0.1:51787
+1532528988447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cC3dffLywwjH"
+1532529003104	Marionette	INFO	Listening on port 35315
+1532529003182	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 50609, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532529209607	geckodriver	INFO	geckodriver 0.19.1
+1532529209612	geckodriver	INFO	Listening on 127.0.0.1:32913
+1532529210746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AcOIPhptzKqJ"
+1532529214842	Marionette	INFO	Listening on port 40570
+1532529214971	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 50867, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 50818, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532529390395	geckodriver	INFO	geckodriver 0.19.1
+1532529390403	geckodriver	INFO	Listening on 127.0.0.1:41186
+1532529390689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Tk7OJ2EuPavp"
+1532529396683	Marionette	INFO	Listening on port 42474
+1532529397075	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 51326, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51281, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51281, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51281, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51281, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532529448939	geckodriver	INFO	geckodriver 0.19.1
+1532529448946	geckodriver	INFO	Listening on 127.0.0.1:49591
+1532529450095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8PCEsvfUkr65"
+1532529454480	Marionette	INFO	Listening on port 36875
+1532529454549	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 51433, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 51433, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532529540458	geckodriver	INFO	geckodriver 0.19.1
+1532529540465	geckodriver	INFO	Listening on 127.0.0.1:46377
+1532529541604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1RadTiB9kXHM"
+1532529544661	Marionette	INFO	Listening on port 39995
+1532529544753	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 51658, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51614, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51614, Chrome_ChildThread] WARNING: pipe error (20): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 51614, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532529586151	geckodriver	INFO	geckodriver 0.19.1
+1532529586157	geckodriver	INFO	Listening on 127.0.0.1:49821
+1532529587283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4uyvM1XqYfpx"
+1532529591876	Marionette	INFO	Listening on port 38869
+1532529591936	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 51825, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 51783, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532529671211	geckodriver	INFO	geckodriver 0.19.1
+1532529671219	geckodriver	INFO	Listening on 127.0.0.1:40557
+1532529672344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JJvgFKh6edcC"
+1532529676818	Marionette	INFO	Listening on port 45152
+1532529676896	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 51984, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 51944, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 51944, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532529699175	geckodriver	INFO	geckodriver 0.19.1
+1532529699184	geckodriver	INFO	Listening on 127.0.0.1:49409
+1532529700313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jt0pmzjDlTuU"
+1532529703410	Marionette	INFO	Listening on port 34708
+1532529703447	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:52084): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52130, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 52084, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532529899252	geckodriver	INFO	geckodriver 0.19.1
+1532529899259	geckodriver	INFO	Listening on 127.0.0.1:36046
+1532529900416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6InwjVfkS2to"
+1532529903504	Marionette	INFO	Listening on port 45797
+1532529903550	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:52284): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52332, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52284, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532530005622	geckodriver	INFO	geckodriver 0.19.1
+1532530005639	geckodriver	INFO	Listening on 127.0.0.1:47577
+1532530006793	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O20V32ZPVQbI"
+1532530010007	Marionette	INFO	Listening on port 35158
+1532530010040	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52523, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 52487, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52487, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532530356022	geckodriver	INFO	geckodriver 0.19.1
+1532530356031	geckodriver	INFO	Listening on 127.0.0.1:56763
+1532530357161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.q1rmn0Nw2pgk"
+1532530361032	Marionette	INFO	Listening on port 34038
+1532530361100	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52747, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 52698, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 52698, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52698, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532530476257	geckodriver	INFO	geckodriver 0.19.1
+1532530476263	geckodriver	INFO	Listening on 127.0.0.1:59690
+1532530477373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4mGP8w1koHiS"
+1532530480820	Marionette	INFO	Listening on port 44417
+1532530480924	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:52903): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52949, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 52903, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 52903, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532530531370	geckodriver	INFO	geckodriver 0.19.1
+1532530531378	geckodriver	INFO	Listening on 127.0.0.1:37009
+1532530532542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KvElrSdtkuYM"
+1532530535711	Marionette	INFO	Listening on port 45896
+1532530535792	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:53041): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[Child 53041, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 53041, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532530708679	geckodriver	INFO	geckodriver 0.19.1
+1532530708686	geckodriver	INFO	Listening on 127.0.0.1:39822
+1532530709811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vKVCsCXfqNb9"
+1532530714344	Marionette	INFO	Listening on port 35443
+1532530714392	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:53260): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 53295, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 53260, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 53260, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 53260, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532530913972	geckodriver	INFO	geckodriver 0.19.1
+1532530913988	geckodriver	INFO	Listening on 127.0.0.1:35207
+1532530915101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Xm6n50aa39Gs"
+1532530918386	Marionette	INFO	Listening on port 33717
+1532530918442	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 53496, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x890004,name=PVsync::Msg_Unobserve) Channel error: cannot send/recv
+
+[Child 53448, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 53448, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532531033440	geckodriver	INFO	geckodriver 0.19.1
+1532531033447	geckodriver	INFO	Listening on 127.0.0.1:58461
+1532531034577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5pSZbiKmpJJ8"
+1532531037794	Marionette	INFO	Listening on port 42249
+1532531037839	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:53647): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 53690, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 53647, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 53647, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532532244731	geckodriver	INFO	geckodriver 0.19.1
+1532532244741	geckodriver	INFO	Listening on 127.0.0.1:56982
+1532532245896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KYdzX1Yi0ez5"
+1532532250263	Marionette	INFO	Listening on port 35953
+1532532250346	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:54009): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1532532536792	geckodriver	INFO	geckodriver 0.19.1
+1532532536798	geckodriver	INFO	Listening on 127.0.0.1:36268
+1532532537927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eK33uIsDdXbg"
+1532532541288	Marionette	INFO	Listening on port 35154
+1532532541381	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:54278): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 54327, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 54278, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532532685120	geckodriver	INFO	geckodriver 0.19.1
+1532532685128	geckodriver	INFO	Listening on 127.0.0.1:40957
+1532532686247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pi107sgfGK0N"
+1532532689742	Marionette	INFO	Listening on port 35358
+1532532689801	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:54476): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 54512, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532532729400	geckodriver	INFO	geckodriver 0.19.1
+1532532729408	geckodriver	INFO	Listening on 127.0.0.1:49300
+1532532730577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2nZcJFQ6b2SV"
+1532532734137	Marionette	INFO	Listening on port 37960
+1532532734246	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:54641): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 54680, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532533099232	geckodriver	INFO	geckodriver 0.19.1
+1532533099239	geckodriver	INFO	Listening on 127.0.0.1:48063
+1532533100361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kAkFaMLBiykj"
+1532533104696	Marionette	INFO	Listening on port 33609
+1532533104725	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:54901): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 54944, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532533273083	geckodriver	INFO	geckodriver 0.19.1
+1532533273092	geckodriver	INFO	Listening on 127.0.0.1:37030
+1532533274307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Cknwvx8o0Nas"
+1532533278388	Marionette	INFO	Listening on port 36575
+1532533278484	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:55216): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 55254, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532533462753	geckodriver	INFO	geckodriver 0.19.1
+1532533462759	geckodriver	INFO	Listening on 127.0.0.1:56564
+1532533463909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BUCc9R8hWjuO"
+1532533466983	geckodriver	INFO	geckodriver 0.19.1
+1532533466990	geckodriver	INFO	Listening on 127.0.0.1:58898
+1532533468141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KRVTMPgfrlOq"
+1532533472380	Marionette	INFO	Listening on port 37420
+1532533472443	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:55478): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 55521, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532533693534	geckodriver	INFO	geckodriver 0.19.1
+1532533693539	geckodriver	INFO	Listening on 127.0.0.1:52280
+1532533694660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eVz85r9X5ADJ"
+1532533698403	Marionette	INFO	Listening on port 42221
+1532533698524	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:55717): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 55758, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 55717, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532537408254	geckodriver	INFO	geckodriver 0.19.1
+1532537408266	geckodriver	INFO	Listening on 127.0.0.1:40582
+1532537409579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qqzT27Lte9P8"
+1532537419062	Marionette	INFO	Listening on port 38540
+1532537419161	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:56230): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 56280, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532537605430	geckodriver	INFO	geckodriver 0.19.1
+1532537605437	geckodriver	INFO	Listening on 127.0.0.1:46613
+1532537606565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t7ytt3j7RAmV"
+1532537610204	Marionette	INFO	Listening on port 36590
+1532537610301	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:56429): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 56475, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 56429, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532539632302	geckodriver	INFO	geckodriver 0.19.1
+1532539632311	geckodriver	INFO	Listening on 127.0.0.1:43815
+1532539633482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qdm3jsJX0FVn"
+1532539639286	Marionette	INFO	Listening on port 40082
+1532539639364	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:56817): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 56854, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532539684296	geckodriver	INFO	geckodriver 0.19.1
+1532539684302	geckodriver	INFO	Listening on 127.0.0.1:36679
+1532539685445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PwlqiSVhPQQF"
+1532539688495	Marionette	INFO	Listening on port 35847
+1532539688581	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:57012): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 57061, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532539724218	geckodriver	INFO	geckodriver 0.19.1
+1532539724224	geckodriver	INFO	Listening on 127.0.0.1:49053
+1532539725406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EWYE0CuLIJsK"
+1532539728833	Marionette	INFO	Listening on port 44759
+1532539728895	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:57209): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 57254, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532539827362	geckodriver	INFO	geckodriver 0.19.1
+1532539827375	geckodriver	INFO	Listening on 127.0.0.1:50440
+1532539828498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pwK4G62VfjaA"
+1532539831910	Marionette	INFO	Listening on port 46010
+1532539831967	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:57422): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 57470, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532539935854	geckodriver	INFO	geckodriver 0.19.1
+1532539935860	geckodriver	INFO	Listening on 127.0.0.1:34590
+1532539937005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nWmUtoAp3IG4"
+1532539940798	Marionette	INFO	Listening on port 35941
+1532539940863	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:57628): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 57670, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540063213	geckodriver	INFO	geckodriver 0.19.1
+1532540063219	geckodriver	INFO	Listening on 127.0.0.1:44077
+1532540064354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NFDySJa1FmWj"
+1532540068241	Marionette	INFO	Listening on port 40162
+1532540068349	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:57860): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 57909, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540196247	geckodriver	INFO	geckodriver 0.19.1
+1532540196255	geckodriver	INFO	Listening on 127.0.0.1:57723
+1532540197514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fbqa8pRuxz9J"
+1532540201312	Marionette	INFO	Listening on port 45477
+1532540201386	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:58060): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 58100, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540277262	geckodriver	INFO	geckodriver 0.19.1
+1532540277267	geckodriver	INFO	Listening on 127.0.0.1:42250
+1532540278404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xohpEP2fSlEv"
+1532540282339	Marionette	INFO	Listening on port 36521
+1532540282361	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:58244): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 58281, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540434628	geckodriver	INFO	geckodriver 0.19.1
+1532540434635	geckodriver	INFO	Listening on 127.0.0.1:35793
+1532540435765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QNFH85lqtqRQ"
+1532540440347	Marionette	INFO	Listening on port 43963
+1532540440468	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:58449): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 58499, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540521221	geckodriver	INFO	geckodriver 0.19.1
+1532540521229	geckodriver	INFO	Listening on 127.0.0.1:58279
+1532540522363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KLHqAY8DIMjc"
+1532540525906	Marionette	INFO	Listening on port 41294
+1532540526119	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:58660): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 58702, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540750532	geckodriver	INFO	geckodriver 0.19.1
+1532540750538	geckodriver	INFO	Listening on 127.0.0.1:35159
+1532540751656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Wk0agtNwQ07P"
+1532540755172	Marionette	INFO	Listening on port 37661
+1532540755240	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:58873): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 58918, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540807924	geckodriver	INFO	geckodriver 0.19.1
+1532540807930	geckodriver	INFO	Listening on 127.0.0.1:45473
+1532540809111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5BvPWjzxAsI2"
+1532540812865	Marionette	INFO	Listening on port 41816
+1532540812963	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:59088): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 59130, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 59088, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540849331	geckodriver	INFO	geckodriver 0.19.1
+1532540849337	geckodriver	INFO	Listening on 127.0.0.1:39420
+1532540850463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SV0QM4DzzdBd"
+1532540853823	Marionette	INFO	Listening on port 46356
+1532540853908	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:59258): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 59309, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 59258, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540908291	geckodriver	INFO	geckodriver 0.19.1
+1532540908300	geckodriver	INFO	Listening on 127.0.0.1:53008
+1532540909472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TEPoNXL2Lfbo"
+1532540912596	Marionette	INFO	Listening on port 37370
+1532540912607	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:59467): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 59517, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532540939413	geckodriver	INFO	geckodriver 0.19.1
+1532540939426	geckodriver	INFO	Listening on 127.0.0.1:60543
+1532540940559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9jBFkgqzQ1il"
+1532540944410	Marionette	INFO	Listening on port 37625
+1532540944534	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:59619): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 59667, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 59619, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532541023242	geckodriver	INFO	geckodriver 0.19.1
+1532541023249	geckodriver	INFO	Listening on 127.0.0.1:53855
+1532541024388	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B9RLtB2Qb6TW"
+1532541027768	Marionette	INFO	Listening on port 45995
+1532541027843	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:59816): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 59862, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 59816, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532541239351	geckodriver	INFO	geckodriver 0.19.1
+1532541239362	geckodriver	INFO	Listening on 127.0.0.1:52862
+1532541240484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vSlSGzf1H61d"
+1532541244227	Marionette	INFO	Listening on port 33525
+1532541244339	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:60033): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 60074, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 60033, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532541493461	geckodriver	INFO	geckodriver 0.19.1
+1532541493470	geckodriver	INFO	Listening on 127.0.0.1:60433
+1532541494614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EjKW0IS6ZTo9"
+1532541498452	Marionette	INFO	Listening on port 41838
+1532541498511	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:60268): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1532543040546	geckodriver	INFO	geckodriver 0.19.1
+1532543040557	geckodriver	INFO	Listening on 127.0.0.1:45288
+1532543041805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JTugkD7axEAi"
+1532543046696	Marionette	INFO	Listening on port 35936
+1532543046763	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:60592): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nNetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:518:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nonStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:438:5\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7
+Line: 1887, column: 0
+console.error: "Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... \"Component not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1887\"  data: no]\nStack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1887:5\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\n_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:663:5\nonStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:612:7\nonInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:714:7\nLine: 1887, column: 0"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1532543449155	geckodriver	INFO	geckodriver 0.19.1
+1532543449162	geckodriver	INFO	Listening on 127.0.0.1:41579
+1532543450285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PzrVKml1QruD"
+1532543454287	Marionette	INFO	Listening on port 46036
+1532543454352	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:60799): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 60841, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 60799, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532543535756	geckodriver	INFO	geckodriver 0.19.1
+1532543535771	geckodriver	INFO	Listening on 127.0.0.1:35435
+1532543537018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SPoox5GuGwAt"
+1532543543653	Marionette	INFO	Listening on port 38088
+1532543543683	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:60966): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1532543735630	geckodriver	INFO	geckodriver 0.19.1
+1532543735638	geckodriver	INFO	Listening on 127.0.0.1:34901
+1532543736766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MkU18Txo6y5m"
+1532543740670	Marionette	INFO	Listening on port 42781
+1532543740761	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:61197): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 61241, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 61197, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532543819235	geckodriver	INFO	geckodriver 0.19.1
+1532543819244	geckodriver	INFO	Listening on 127.0.0.1:59459
+1532543820386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LkLPJe5OVHA8"
+1532543824244	Marionette	INFO	Listening on port 35585
+1532543824355	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:61420): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 61463, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532543884950	geckodriver	INFO	geckodriver 0.19.1
+1532543884960	geckodriver	INFO	Listening on 127.0.0.1:56686
+1532543886117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pj80fTQ36EEJ"
+1532543890056	Marionette	INFO	Listening on port 34404
+1532543890155	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:61623): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 61659, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 61623, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 61623, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532543959430	geckodriver	INFO	geckodriver 0.19.1
+1532543959436	geckodriver	INFO	Listening on 127.0.0.1:60613
+1532543960611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9BQ02EHCcgz0"
+1532543964106	Marionette	INFO	Listening on port 44280
+1532543964201	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:61838): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 61871, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532544021751	geckodriver	INFO	geckodriver 0.19.1
+1532544021757	geckodriver	INFO	Listening on 127.0.0.1:47077
+1532544022933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0DobWQgEtE9O"
+1532544027024	Marionette	INFO	Listening on port 46531
+1532544027102	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:62009): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62049, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62009, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532544161782	geckodriver	INFO	geckodriver 0.19.1
+1532544161788	geckodriver	INFO	Listening on 127.0.0.1:53169
+1532544162911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.40rRFSU1I0GR"
+1532544166083	Marionette	INFO	Listening on port 37414
+1532544166162	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:62205): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62259, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532544207156	geckodriver	INFO	geckodriver 0.19.1
+1532544207162	geckodriver	INFO	Listening on 127.0.0.1:54701
+1532544208301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z79MatekLIqx"
+1532544212091	Marionette	INFO	Listening on port 39393
+1532544212151	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:62398): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62441, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62398, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532544360450	geckodriver	INFO	geckodriver 0.19.1
+1532544360455	geckodriver	INFO	Listening on 127.0.0.1:45653
+1532544361578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KHSZwEaNu9OJ"
+1532544364812	Marionette	INFO	Listening on port 38549
+1532544364858	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:62613): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62670, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532544426169	geckodriver	INFO	geckodriver 0.19.1
+1532544426175	geckodriver	INFO	Listening on 127.0.0.1:50791
+1532544427294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.55FHmeejuS8y"
+1532544430403	Marionette	INFO	Listening on port 41585
+1532544430429	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:62850): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62891, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 62850, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532544577076	geckodriver	INFO	geckodriver 0.19.1
+1532544577082	geckodriver	INFO	Listening on 127.0.0.1:33341
+1532544578205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9KQ2ZaOJY3sS"
+1532544581313	Marionette	INFO	Listening on port 33967
+1532544581336	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:63063): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 63114, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532544638196	geckodriver	INFO	geckodriver 0.19.1
+1532544638203	geckodriver	INFO	Listening on 127.0.0.1:35563
+1532544639329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bWaR1dWrQjrv"
+1532544642308	Marionette	INFO	Listening on port 38961
+1532544642381	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:63247): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+console.error: "_refreshProcess of computed view cancelled"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 63288, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 63247, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532544856755	geckodriver	INFO	geckodriver 0.19.1
+1532544856762	geckodriver	INFO	Listening on 127.0.0.1:44069
+1532544858078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HDxiD8o0JOzo"
+1532544862890	Marionette	INFO	Listening on port 33443
+1532544862929	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:63509): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 63548, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 63509, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532545002125	geckodriver	INFO	geckodriver 0.19.1
+1532545002130	geckodriver	INFO	Listening on 127.0.0.1:54269
+1532545003267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gbwXHh98B620"
+1532545006279	Marionette	INFO	Listening on port 46058
+1532545006299	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:63722): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 63775, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 63722, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 63722, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532545116814	geckodriver	INFO	geckodriver 0.19.1
+1532545116820	geckodriver	INFO	Listening on 127.0.0.1:58171
+1532545117942	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5Fk71EamNR4O"
+1532545121244	Marionette	INFO	Listening on port 44294
+1532545121291	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:63955): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 63999, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 63955, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 63955, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532545313226	geckodriver	INFO	geckodriver 0.19.1
+1532545313235	geckodriver	INFO	Listening on 127.0.0.1:46183
+1532545314354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oAx0kfdnp9VI"
+1532545317308	Marionette	INFO	Listening on port 42060
+1532545317404	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:64204): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 64254, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532545457147	geckodriver	INFO	geckodriver 0.19.1
+1532545457154	geckodriver	INFO	Listening on 127.0.0.1:37246
+1532545458283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ozLLeUKl9OcA"
+1532545461682	Marionette	FATAL	Remote protocol server failed to start: Error: Could not bind to port 46398 (NS_ERROR_SOCKET_ADDRESS_IN_USE) (chrome://marionette/content/server.js:87:17) JS Stack trace: set acceptConnections@server.js:87:17
+start@server.js:116:5
+init/<@marionette.js:442:9
+JavaScript error: resource:///modules/SavantShieldStudy.jsm, line 171: TypeError: this.addonListener is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/storage-json.js, line 87: Error: Initialization failed
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsLoginManager.js, line 127: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Initialization failed" {file: "jar:file:///usr/lib/firefox/omni.ja!/components/storage-json.js" line: 87}]'[JavaScript Error: "Initialization failed" {file: "jar:file:///usr/lib/firefox/omni.ja!/components/storage-json.js" line: 87}]' when calling method: [nsILoginManagerStorage::initialize]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 683: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1224: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 683}]'[JavaScript Error: "Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"" {file: "resource://gre/modules/AsyncShutdown.jsm" line: 683}]' when calling method: [nsIHandlerService::asyncInit]
+1532545493756	geckodriver	INFO	geckodriver 0.19.1
+1532545493762	geckodriver	INFO	Listening on 127.0.0.1:44824
+1532545494928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NdWzFhlusPs7"
+1532545498200	Marionette	INFO	Listening on port 39177
+1532545498268	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:64590): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 64634, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 64590, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 64590, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532545656333	geckodriver	INFO	geckodriver 0.19.1
+1532545656339	geckodriver	INFO	Listening on 127.0.0.1:52936
+1532545657473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6TjF2IdelT23"
+1532545660460	Marionette	INFO	Listening on port 46554
+1532545660749	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:64805): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 64855, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 64805, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532545730171	geckodriver	INFO	geckodriver 0.19.1
+1532545730177	geckodriver	INFO	Listening on 127.0.0.1:48043
+1532545731331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jQIdnPLPmiXs"
+1532545734044	Marionette	INFO	Listening on port 40880
+1532545734073	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:65025): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 65069, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 65025, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 65025, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532545971754	geckodriver	INFO	geckodriver 0.19.1
+1532545971765	geckodriver	INFO	Listening on 127.0.0.1:47181
+1532545972963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hXVd5ckOteQZ"
+1532545976748	Marionette	INFO	Listening on port 46544
+1532545976806	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:65281): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 65315, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 65281, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532546036893	geckodriver	INFO	geckodriver 0.19.1
+1532546036899	geckodriver	INFO	Listening on 127.0.0.1:55234
+1532546038067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9sfpHdRGDSZB"
+1532546041137	Marionette	INFO	Listening on port 40471
+1532546041205	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:65452): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 65488, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532546129377	geckodriver	INFO	geckodriver 0.19.1
+1532546129384	geckodriver	INFO	Listening on 127.0.0.1:41528
+1532546130558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UOlVfYAPLBLr"
+1532546134335	Marionette	INFO	Listening on port 37389
+1532546134430	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:65657): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 65699, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 65657, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532546304138	geckodriver	INFO	geckodriver 0.19.1
+1532546304146	geckodriver	INFO	Listening on 127.0.0.1:40314
+1532546305323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nOoxXmbPFUKD"
+1532546308628	Marionette	INFO	Listening on port 33020
+1532546308694	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:65905): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 65945, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532546395450	geckodriver	INFO	geckodriver 0.19.1
+1532546395455	geckodriver	INFO	Listening on 127.0.0.1:34899
+1532546396577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9sfrhqpy3PVn"
+1532546399610	Marionette	INFO	Listening on port 41968
+1532546399711	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:66089): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1532546482454	geckodriver	INFO	geckodriver 0.19.1
+1532546482460	geckodriver	INFO	Listening on 127.0.0.1:55038
+1532546483581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1RtEdbNmzV8p"
+1532546486597	Marionette	INFO	Listening on port 34288
+1532546486608	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:66286): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 66325, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532546539046	geckodriver	INFO	geckodriver 0.19.1
+1532546539053	geckodriver	INFO	Listening on 127.0.0.1:38815
+1532546540174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7y6UmpLvJ8p3"
+1532546543902	Marionette	INFO	Listening on port 39883
+1532546543970	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:66490): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 66523, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 66490, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532546670025	geckodriver	INFO	geckodriver 0.19.1
+1532546670032	geckodriver	INFO	Listening on 127.0.0.1:42711
+1532546671157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iU24CyK5k5X5"
+1532546674866	Marionette	INFO	Listening on port 38893
+1532546674916	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:66710): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/toolbox.js, line 1266: TypeError: currentPanel is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 66763, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 66710, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 66710, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532546750856	geckodriver	INFO	geckodriver 0.19.1
+1532546750865	geckodriver	INFO	Listening on 127.0.0.1:39664
+1532546751988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bBDwCmirYHIi"
+1532546755634	Marionette	INFO	Listening on port 42098
+1532546755764	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:66934): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 66934, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532547012267	geckodriver	INFO	geckodriver 0.19.1
+1532547012278	geckodriver	INFO	Listening on 127.0.0.1:55659
+1532547013394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rOfZbX2YuvhA"
+1532547017025	Marionette	INFO	Listening on port 41458
+1532547017087	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:67171): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 67206, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532547088125	geckodriver	INFO	geckodriver 0.19.1
+1532547088131	geckodriver	INFO	Listening on 127.0.0.1:45015
+1532547089519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ddl2VTPqll3r"
+1532547093184	Marionette	INFO	Listening on port 45568
+1532547093267	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:67374): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1532547307197	geckodriver	INFO	geckodriver 0.19.1
+1532547307203	geckodriver	INFO	Listening on 127.0.0.1:40261
+1532547308345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.C9CvqITxBK0m"
+1532547311418	Marionette	INFO	Listening on port 40636
+1532547311515	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:67596): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 67633, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 67596, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532547444237	geckodriver	INFO	geckodriver 0.19.1
+1532547444242	geckodriver	INFO	Listening on 127.0.0.1:44070
+1532547445363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4Hspwx1ddi1u"
+1532547449977	Marionette	INFO	Listening on port 36987
+1532547450037	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:67801): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1532547493021	geckodriver	INFO	geckodriver 0.19.1
+1532547493029	geckodriver	INFO	Listening on 127.0.0.1:47026
+1532547494206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PDVZdz7XVw6O"
+1532547497938	Marionette	INFO	Listening on port 37414
+1532547498017	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:68006): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 68040, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 68006, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532547875389	geckodriver	INFO	geckodriver 0.19.1
+1532547875396	geckodriver	INFO	Listening on 127.0.0.1:48460
+1532547876518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2rgY2yyxhkBP"
+1532547880578	Marionette	INFO	Listening on port 33771
+1532547880661	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 68318, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 68277, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532547951068	geckodriver	INFO	geckodriver 0.19.1
+1532547951074	geckodriver	INFO	Listening on 127.0.0.1:47222
+1532547952199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gUiXyqbAEVST"
+1532547955601	Marionette	INFO	Listening on port 43442
+1532547955674	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:68485): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 68517, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 68485, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1532548133463	geckodriver	INFO	geckodriver 0.19.1
+1532548133470	geckodriver	INFO	Listening on 127.0.0.1:35241
+1532548134636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iCfPq22wfJhN"
+1532548137601	Marionette	INFO	Listening on port 42850
+1532548137686	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:68672): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1532548230507	geckodriver	INFO	geckodriver 0.19.1
+1532548230515	geckodriver	INFO	Listening on 127.0.0.1:51727
+1532548231650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.bdZT8b5Kozvw"
+1532548234699	Marionette	INFO	Listening on port 40595
+1532548234837	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:68859): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1532548357138	geckodriver	INFO	geckodriver 0.19.1
+1532548357144	geckodriver	INFO	Listening on 127.0.0.1:58203
+1532548358286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FM8TSjJY6ELq"
+1532548361819	Marionette	INFO	Listening on port 35258
+1532548361922	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:69085): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 69117, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 69085, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
