@@ -1,7 +1,5 @@
-CI Automation
+Virtru Automation
 ==============
-After downloading the repo from GitLab
-======================================
 
 1. Run "make test_reqs"
 
