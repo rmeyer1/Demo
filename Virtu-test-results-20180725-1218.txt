@@ -1,6 +1,0 @@
-07/25/2018 12:18:23 PM RUNNING: Email Validation
-07/25/2018 12:18:31 PM the browser is open to GMAIL
-07/25/2018 12:18:42 PM the user is logged in as Test User
-07/25/2018 12:19:01 PM STEP FAILED: Locate and Validate Email
-07/25/2018 12:19:01 PM FAILED: Email Validation
-
